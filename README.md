@@ -1,4 +1,3 @@
-
 # Bistro Boss
 
 This is a restaurant management website that shows the different categories of food that are available in the restaurant. Customer Can check these food, order food and reservation a table.
@@ -11,10 +10,12 @@ This is a restaurant management website that shows the different categories of f
 
 >GitHub Link:
 >
->> Client Side Code : [Bistro Boss Client Side Code]()
+>> Client Side Code : [Bistro Boss Client Side Code](https://github.com/Nurmurad32/bistro-boss-client)
 >>
->> Server Side Code : [Bistro Boss Server Side Code]()
+>> Server Side Code : [Bistro Boss Server Side Code](https://github.com/Nurmurad32/bostro-boss-server)
 
+- Admin Login::
+    - Email: abistro@gmail.com Pass: Abistro!@#123
 
 ### Features :
 - Restaurant Management Website
