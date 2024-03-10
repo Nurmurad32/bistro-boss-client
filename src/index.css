@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+}
+
+.drawer-side a.active{
+    color: white;
+}
+.drawer-side a{
+    background-color: transparent;
+}
+
+.btn-brand1 {
+    @apply bg-[#D1A054] text-white font-bold hover:bg-[#926c33];
+  }
